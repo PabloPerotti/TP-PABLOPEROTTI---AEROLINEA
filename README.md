@@ -1,7 +1,5 @@
 # Trabajo Practico CODERHOUSE
 ## Aerolinea
-Claro, aquí tienes una explicación para el README de tu repositorio en GitHub:
-
 ---
 
 ## Análisis de Datos de Satisfacción de Pasajeros en Aerolíneas
